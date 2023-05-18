@@ -36,7 +36,7 @@ The stock market analysis project aims to analyze historical stock price data an
 1. Clone the repository:
 
 ``` shell
-git clone https://github.com/your-username/stock-market-analysis.git
+git clone https://github.com/usamajavaid9121/Stock-Market-Analysis
 ```
 
 2. Install the required Python packages:
